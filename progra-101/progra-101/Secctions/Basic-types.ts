@@ -1,6 +1,6 @@
 // strings
 
-let firstName: string = 'Fernando';
+export let firstName: string = 'Fernando';
 let lastName: string   = 'Herrera';
 
 console.log(firstName, lastName);
