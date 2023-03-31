@@ -1,6 +1,6 @@
 
 export let base = 10;
-let limit = 50;
+export let limit = 50;
 
 console.log('10 x 1 =10')
 

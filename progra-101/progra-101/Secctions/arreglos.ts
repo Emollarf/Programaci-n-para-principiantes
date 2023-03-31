@@ -1,5 +1,5 @@
 
-let people:string [] =['Fernando', 'Melisa', 'Eduardo'];
+export let people:string [] =['Fernando', 'Melisa', 'Eduardo'];
 let flowers: string[] = ['1','2','3']
 let flowers1:string[]; 
 
