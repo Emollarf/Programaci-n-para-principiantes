@@ -63,11 +63,11 @@ export class Car {
         }    
     };
     
-/* let myMazda = new Car ('seat','turismo');
+let myMazda = new Car ('seat','turismo');
 
- */
 
-/* myMazda.fillTank(30);
-myMazda.turnOn(); */
-/* console.log(myMazda); */
-/* console.log(Car.className); */
+
+myMazda.fillTank(30);
+myMazda.turnOn();
+console.log(myMazda);
+console.log(Car.className);
